@@ -8,14 +8,8 @@ Our framework leverages Conformer-based encoders and adversarial training strate
 ## Table of Contents
 - [Overview](#overview)  
 - [Experiments](#experiments)  
-- [Setup and Installation](#setup-and-installation)  
 - [Data Preparation](#data-preparation)  
-- [Training](#training)  
-- [Evaluation](#evaluation)  
 - [Results](#results)  
-- [Configurations](#configurations)  
-- [Citation](#citation)  
-- [Contact](#contact)  
 
 ---
 
