@@ -17,7 +17,6 @@ This repository contains a **Conformer-based spoken language identification (SLI
 ### Training
 ```bash
 python train_conformer.py \
-  --train path/to/source.txt \
-  --test path/to/target.txt \
-  --valid path/to/valid.txt \
+  --train path/to/train_data.txt \
+  --test path/to/test_data.txt \
   --lang 12 \
