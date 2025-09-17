@@ -6,10 +6,10 @@ Our framework leverages Conformer-based encoders and adversarial training strate
 ---
 
 ## Table of Contents
-- [Overview](#🔎-overview)  
-- [Experiments](#🧪-experiments)  
-- [Data Preparation](#📂-data-preparation)  
-- [Results](#📊-results)  
+- [Overview](#-overview)  
+- [Experiments](#-experiments)  
+- [Data Preparation](#-data-preparation)  
+- [Results](#-results)  
 
 ---
 
